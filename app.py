@@ -38,7 +38,7 @@ session = Session(engine)
 app = Flask(__name__)
 
 # define the welcome route 
-@app.route("/")
+@app.route("/") #goes my home page
 def welcome():
     return(
     '''
