@@ -22,14 +22,17 @@ The analysis was created using next resources:
 There is a bulleted list that addresses the three key differences in weather between June and December
 
 Full results can be found in the [SurfsUp_Challenge](./SurfsUp_Challenge.ipynb.ipynb) file.	
-  ### ` - A       summary by first difference`	
+  ### ` - The difference in the summary statistics for the June and Decemeber temperatures`	
 
-  ### ` - A       summary by second difference`	
-
- 
 Based on      g summary by , the differences display below results:
 
-  ### ` - A       summary by third difference`	
+statistics
+  ### ` - The second difference for the June and Decemeber temperatures`	
+
+plots
+
+
+  ### ` - The second difference for the June and Decemeber temperature`	
 
 ## `Surf shop Analysis Summary`	
 
@@ -42,4 +45,4 @@ Firstly, the analyse says the Urbun's average fare is the lowest. So, it points 
 Next, in the same time, the Rural's fare is the biggest. So, Rural area should decrease their fare per ride to be more attractive for clients and to hire drivers more. But also, it can be that drivers drive longer distance. If so, it needs to attract more drivers it needs to organise marketing campaigns and others activities. 
 
 Finally, Urbun area shows great trend by increasing their weekly fare income from January to April except 1 month from last week in Februaly till last week in March. So, that is perspective market for the company.
-Additionally, comparing with Rural and Urban trend Suburban area shows unusual trend from last week of March to the end of April. It definetly demands to have an additional analysis.
+Additionally, comparing with Rural and Urban trend Suburban area shows unusual trend from last week of March to the end of April. It dsefinetly demands to have an additional analysis.
