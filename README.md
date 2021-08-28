@@ -26,10 +26,12 @@ Full results can be found in the [SurfsUp_Challenge](./SurfsUp_Challenge.ipynb.i
 
 Based on      g summary by , the differences display below results:
 
-statistics
+![image](https://user-images.githubusercontent.com/68247343/131223675-5d82fffc-83c1-412e-9f86-0b343f3a3fd4.png)
+
+
   ### ` - The second difference for the June and Decemeber temperatures`	
 
-plots
+![image](https://user-images.githubusercontent.com/68247343/131223683-b8a1d27c-19de-403f-ba87-f160069c9093.png)
 
 
   ### ` - The second difference for the June and Decemeber temperature`	
