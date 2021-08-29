@@ -31,7 +31,7 @@ The not significant (less 5%) differences of the summary statistics display foll
   - min is greater in June by almost 8&deg;F;
   - max is greater in June by almost 4&deg;F.
  
-![image](https://user-images.githubusercontent.com/68247343/131253200-ddacc838-ec2b-4a10-b2bf-83bf15da7cd9.png)
+![image](https://user-images.githubusercontent.com/68247343/131253547-df4d7aed-b19a-4e32-b3fe-70bd88a41fef.png)
 
 ### ` - The difference (std) in the summary statistics for the June and December temperatures`
 
