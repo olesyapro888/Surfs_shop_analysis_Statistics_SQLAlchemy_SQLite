@@ -30,25 +30,27 @@ The not significant (less 5%) differences of the summary statistics display foll
   - mean is greater in June by almost 4&deg;F;
   - min is greater in June by almost 8&deg;F;
   - max is greater in June by almost 4&deg;F.
-
-![image](https://user-images.githubusercontent.com/68247343/131223675-5d82fffc-83c1-412e-9f86-0b343f3a3fd4.png)
+ 
+![image](https://user-images.githubusercontent.com/68247343/131248045-87eb53ae-9c8f-46ba-9fc5-81edf940cd9c.png)
 
 ### ` - The difference (std) in the summary statistics for the June and December temperatures`
 
 The standard deviation in the summary statistics for the June and December temperatures is higher in December than June. That means the temperatures are volatile and often changeable between min and max.
   
-screen boxplot and plot
+![image](https://user-images.githubusercontent.com/68247343/131247919-fbcc21a3-4eb0-47c9-ae17-587bde05c1b2.png)
+
 ### ` - The third difference between the June and the December temperatures`	
 
 Additionally, there is a difference between the June and the December temperatures as most of June's temperatures are between 71&deg;F - 81&deg;F comparing with December's temperatures: 65J&deg;F - 75&deg;F.
 
-screen histogram
+![image](https://user-images.githubusercontent.com/68247343/131247937-5dd10b51-93fe-4d7f-bcfb-cf646b2c55c1.png)
+
 ## `Surf shop Analysis Summary`	
 
 The analysis provides a lot of summarizing and displays the main 3 differences between the June and the December temperatures:
 - There are not significant (less 5%) differences of the summary statistics;
 - The December's temperatures are volatile and often changeable between min and max;
-- The  December's temperatures are colder comparing with June's temperatures approximately by 10&deg;F0.
+- The  December's temperatures are colder comparing with June's temperatures approximately by 10&deg;F.
 
 But the analyse of temperatures is not enough for the opening the surf shop purpose. A fact -is a surfing after rainfall may seriously affect health. So, that is important to add precipitation analysis for the months of June and December to our temperature analysis.
 
