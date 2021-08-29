@@ -21,30 +21,39 @@ The analysis was created using next resources:
 ## `Surf shop Analysis Result`	
 There is a bulleted list that addresses the three key differences in weather between June and December
 
-Full results can be found in the [SurfsUp_Challenge](./SurfsUp_Challenge.ipynb.ipynb) file.	
-  ### ` - The difference in the summary statistics for the June and Decemeber temperatures`	
+Full results can be found in the [SurfsUp_Challenge](./SurfsUp_Challenge.ipynb) file.	
+### ` - The difference (min, max, mean) in the summary statistics for the June and December temperatures`	
 
-Based on      g summary by , the differences display below results:
+Based on the summary statistics for the June and December temperatures, the good temperatures are sustainable year-round the surf and ice cream shop business.
+ 
+The not significant (less 5%) differences of the summary statistics display following:
+  - mean is greater in June by almost 4&deg;F;
+  - min is greater in June by almost 8&deg;F;
+  - max is greater in June by almost 4&deg;F.
 
 ![image](https://user-images.githubusercontent.com/68247343/131223675-5d82fffc-83c1-412e-9f86-0b343f3a3fd4.png)
 
+### ` - The difference (std) in the summary statistics for the June and December temperatures`
 
-  ### ` - The second difference for the June and Decemeber temperatures`	
+The standard deviation in the summary statistics for the June and December temperatures is higher in December than June. That means the temperatures are volatile and often changeable between min and max.
+  
+screen boxplot and plot
+### ` - The third difference between the June and the December temperatures`	
 
-![image](https://user-images.githubusercontent.com/68247343/131223683-b8a1d27c-19de-403f-ba87-f160069c9093.png)
+Additionally, there is a difference between the June and the December temperatures as most of June's temperatures are between 71&deg;F - 81&deg;F comparing with December's temperatures: 65J&deg;F - 75&deg;F.
 
-
-  ### ` - The second difference for the June and Decemeber temperature`	
-
+screen histogram
 ## `Surf shop Analysis Summary`	
 
-There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. 
+The analysis provides a lot of summarizing and displays the main 3 differences between the June and the December temperatures:
+- There are not significant (less 5%) differences of the summary statistics;
+- The December's temperatures are volatile and often changeable between min and max;
+- The  December's temperatures are colder comparing with June's temperatures approximately by 10J&deg;F0.
 
-The analysis provides a lot of summarizing but the 3 can be chosen as main and essential business recommendations to the CEO for addressing any disparities among the city types.
+But the analyse of temperatures is not enogth for the opening the surf shop purpose.
 
-Firstly, the analyse says the Urbun's average fare is the lowest. So, it points at the drivers are more than total rides taken. Therefore, it demands to decrease the drivers in Urban area. 
+The 2 can be chosen as main and essential business recommendations.
 
-Next, in the same time, the Rural's fare is the biggest. So, Rural area should decrease their fare per ride to be more attractive for clients and to hire drivers more. But also, it can be that drivers drive longer distance. If so, it needs to attract more drivers it needs to organise marketing campaigns and others activities. 
+Firstly, a. 
 
-Finally, Urbun area shows great trend by increasing their weekly fare income from January to April except 1 month from last week in Februaly till last week in March. So, that is perspective market for the company.
-Additionally, comparing with Rural and Urban trend Suburban area shows unusual trend from last week of March to the end of April. It dsefinetly demands to have an additional analysis.
+Secondly, i. 
