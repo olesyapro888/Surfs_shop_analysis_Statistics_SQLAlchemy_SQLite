@@ -50,10 +50,13 @@ The analysis provides a lot of summarizing and displays the main 3 differences b
 - The December's temperatures are volatile and often changeable between min and max;
 - The  December's temperatures are colder comparing with June's temperatures approximately by 10&deg;F0.
 
-But the analyse of temperatures is not enogth for the opening the surf shop purpose.
+But the analyse of temperatures is not enough for the opening the surf shop purpose. A fact -is a surfing after rainfall may seriously affect health. So, that is important to add precipitation analysis for the months of June and December to our temperature analysis.
 
-The 2 can be chosen as main and essential business recommendations.
+The 2 can be chosen as main and essential business recommendations to pay attention.
+Firstly, the rainfall is often in June than December but it's stronger in December. 
 
-Firstly, a. 
+screen plot
 
-Secondly, i. 
+Secondly, standard deviation is bigger by 34% in December than in June. So, storm rain is often in December.
+
+Screen boxplot
