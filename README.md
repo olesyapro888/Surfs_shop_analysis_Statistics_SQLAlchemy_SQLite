@@ -3,11 +3,11 @@
 	
 - [Overview of the Project](#overview-of-the-Surf-shop-Analysis)	
 - [Resources](#resources)	
-- [Surfs up Analysis Result](#surf-shop-Analysis-Result)	
+- [Surfs shop Analysis Result](#surf-shop-Analysis-Result)	
   - [The difference (min, max, mean) in the summary statistics for the June and December temperatures](#difference-(min,-max,-mean)-in-the-summary-statistics)	
   - [The difference (std) in the summary statistics for the June and December temperatures](#the-difference(std)-in-the-summary-statistics-for-the)
   - [The third difference between the June and the December temperatures](#third-difference-between-the-June-and-the-December-temperatures)		 
-- [Surf shop Analysis Summary](#surf-shop-Analysis-Summary)	
+- [Surfs shop Analysis Summary](#surf-shop-Analysis-Summary)	
 ## `Overview of the Surf shop Analysis`	
 	
 The purpose for the Surfs shop analysis is to determine if the surf and ice cream shop business sustainable year-round. 
@@ -17,7 +17,7 @@ The tasks of the Challenge are:
 ## `Resources`	
 
 The analysis was created using next software: Python 3.8.8, Pandas 1.2.4, Jupyter-notebook 6.3.0, SQLAlchemy.	
-## `Surf shop Analysis Result`	
+## `Surfs shop Analysis Result`	
 
 Full results can be found in the [SurfsUp_Challenge](./SurfsUp_Challenge.ipynb) file.	
 ### ` - The difference (min, max, mean) in the summary statistics for the June and December temperatures`	
@@ -43,7 +43,7 @@ Additionally, there is a difference between the June and the December temperatur
 
 ![image](https://user-images.githubusercontent.com/68247343/131253246-fbcbd114-205c-4d6c-9f2c-003c43ed4d1d.png)
 
-## `Surf shop Analysis Summary`	
+## `Surfs shop Analysis Summary`	
 
 The analysis provides a lot of summarizing and displays the main 3 differences between the June and the December temperatures:
 - There are not significant (less 5%) differences of the summary statistics;
