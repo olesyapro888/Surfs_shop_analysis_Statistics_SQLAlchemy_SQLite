@@ -48,7 +48,7 @@ screen histogram
 The analysis provides a lot of summarizing and displays the main 3 differences between the June and the December temperatures:
 - There are not significant (less 5%) differences of the summary statistics;
 - The December's temperatures are volatile and often changeable between min and max;
-- The  December's temperatures are colder comparing with June's temperatures approximately by 10J&deg;F0.
+- The  December's temperatures are colder comparing with June's temperatures approximately by 10&deg;F0.
 
 But the analyse of temperatures is not enogth for the opening the surf shop purpose.
 
