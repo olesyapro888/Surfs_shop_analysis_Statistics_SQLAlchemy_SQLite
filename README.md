@@ -3,11 +3,11 @@
 	
 - [Overview of the Project](#overview-of-the-Surf-shop-Analysis)	
 - [Resources](#resources)	
-- [Surfs shop Analysis Result](#surf-shop-Analysis-Result)	
-  - [The difference (min, max, mean) in the summary statistics for the June and the December temperatures](#difference-(min,-max,-mean)-in-the-summary-statistics)	
-  - [The difference (std) in the summary statistics for the June and the December temperatures](#the-difference(std)-in-the-summary-statistics-for-the)
-  - [The third difference between the June and the December temperatures](#third-difference-between-the-June-and-the-December-temperatures)		 
-- [Surfs shop Analysis Summary](#surf-shop-Analysis-Summary)	
+- [Surfs shop Analysis Result](#surfs-shop-Analysis-Result)	
+  - [The difference (min, max, mean) in the summary statistics for the June and the December temperatures](#The-difference-(min,-max,-mean)-in-the-summary-statistics-for-the-June-and-the-December-temperatures)	
+  - [The difference (std) in the summary statistics for the June and the December temperatures](#The-difference-(std)-in-the-summary-statistics-for-the-June-and-the-December-temperatures)
+  - [The third difference between the June and the December temperatures](#The-third-difference-between-the-June-and-the-December-temperatures)		 
+- [Surfs shop Analysis Summary](#surfs-shop-Analysis-Summary)	
 ## `Overview of the Surf shop Analysis`	
 	
 The purpose for the Surfs shop analysis is to determine if the surf and ice cream shop business sustainable year-round. 
