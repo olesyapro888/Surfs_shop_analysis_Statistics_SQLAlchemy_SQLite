@@ -15,16 +15,14 @@ The tasks of the Challenge are:
 1. Retrieve all the temperatures for the 2 months of June and December. Convert the temperatures to a list, create a DataFrame from the list, and generate the summary statistics.
 2. Write a report that describes the key differences in weather between June and December and two recommendations for further analysis.
 ## `Resources`	
-The analysis was created using next resources:	
-  - Data Source: [Resources](./Resources/).	
-  - Software: Python 3.8.8, Pandas 1.2.4, Jupyter-notebook 6.3.0, SQLAlchemy, PostgreSQL 11.12 and pgAdmin 5.5.	
+
+The analysis was created using next software: Python 3.8.8, Pandas 1.2.4, Jupyter-notebook 6.3.0, SQLAlchemy.	
 ## `Surf shop Analysis Result`	
-There is a bulleted list that addresses the three key differences in weather between June and December
 
 Full results can be found in the [SurfsUp_Challenge](./SurfsUp_Challenge.ipynb) file.	
 ### ` - The difference (min, max, mean) in the summary statistics for the June and December temperatures`	
 
-Based on the summary statistics for the June and December temperatures, the good temperatures are sustainable year-round the surf and ice cream shop business.
+Based on the summary statistics for the June and the December temperatures, the good temperatures are sustainable year-round the surf and ice cream shop business.
  
 The not significant (less 5%) differences of the summary statistics display following:
   - mean is greater in June by almost 4&deg;F;
@@ -35,7 +33,7 @@ The not significant (less 5%) differences of the summary statistics display foll
 
 ### ` - The difference (std) in the summary statistics for the June and December temperatures`
 
-The standard deviation in the summary statistics for the June and December temperatures is higher in December than June. That means the temperatures are volatile and often changeable between min and max.
+The standard deviation in the summary statistics for the June and December temperatures is higher in December than in June. That means the temperatures are volatile and often changeable between min and max in December.
   
 ![image](https://user-images.githubusercontent.com/68247343/131253223-a60f1634-b958-4e98-9376-d85b06966a7d.png)
 
@@ -52,7 +50,8 @@ The analysis provides a lot of summarizing and displays the main 3 differences b
 - The December's temperatures are volatile and often changeable between min and max;
 - The  December's temperatures are colder comparing with June's temperatures approximately by 10&deg;F.
 
-But the analyse of temperatures is not enough for the opening the surf shop purpose. A fact is a surfing after rainfall may seriously affect health. So, that is important to add precipitation analysis for the months of June and December to our temperature analysis.
+But the analyse of temperatures is not enough for the opening the surf shop purpose. 
+A fact is a surfing after rainfall may seriously affect health. So, that is important to add precipitation analysis for the months of June and December to our temperature analysis.
 ![image](https://user-images.githubusercontent.com/68247343/131253414-637b8021-531a-4a94-bbec-9118ad16ad47.png)
 
 The 2 things can be chosen as main and essential business recommendations to pay attention.
