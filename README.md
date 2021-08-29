@@ -20,7 +20,7 @@ The analysis was created using next software: Python 3.8.8, Pandas 1.2.4, Jupyte
 ## `Surfs shop Analysis Result`	
 
 Full results can be found in the [SurfsUp_Challenge](./SurfsUp_Challenge.ipynb) file.	
-### `The difference (min, max, mean) in the summary statistics for the June and the December temperatures`	
+### `- The difference (min, max, mean) in the summary statistics for the June and the December temperatures`	
 
 Based on the summary statistics for the June and the December temperatures, the good temperatures are sustainable year-round the surf and ice cream shop business.
  
@@ -31,13 +31,13 @@ The not significant (less 5%) differences of the summary statistics display foll
  
 ![image](https://user-images.githubusercontent.com/68247343/131253547-df4d7aed-b19a-4e32-b3fe-70bd88a41fef.png)
 
-### `The difference (std) in the summary statistics for the June and the December temperatures`
+### `- The difference (std) in the summary statistics for the June and the December temperatures`
 
 The standard deviation in the summary statistics for the June and December temperatures is higher in December than in the June. That means the temperatures are volatile and often changeable between min and max in the December.
   
 ![image](https://user-images.githubusercontent.com/68247343/131253223-a60f1634-b958-4e98-9376-d85b06966a7d.png)
 
-### `The third difference between the June and the December temperatures`	
+### `- The third difference between the June and the December temperatures`	
 
 Additionally, there is a difference between the June and the December temperatures as most of June's temperatures are between 71&deg;F - 81&deg;F comparing with December's temperatures: 65J&deg;F - 75&deg;F.
 
