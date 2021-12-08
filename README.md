@@ -1,4 +1,4 @@
-# Surfs shop analysis. Project 9 of the UofT.
+# Surfs shop analysis. The project 9 of the University of Toronto.
 ## `-Contents-`	
 	
 - [Overview of the Project](#overview-of-the-Surf-shop-Analysis)	
