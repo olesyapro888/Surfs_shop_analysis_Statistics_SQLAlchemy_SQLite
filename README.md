@@ -1,4 +1,4 @@
-# Statistics for surfs shop analysis using SQLAlchemy, SQLite databas, and designing a Flask app.
+# Surfs shop analysis using Statistics, Pandas, SQLAlchemy, SQLite database.
 
 ## `-Contents-`	
 	
