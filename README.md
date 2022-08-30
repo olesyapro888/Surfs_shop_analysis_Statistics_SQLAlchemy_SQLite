@@ -1,4 +1,5 @@
-# Surfs shop analysis. The project 9 of the University of Toronto.
+# Statistics for surfs shop analysis using SQLAlchemy, SQLite databas, and designing a Flask app.
+
 ## `-Contents-`	
 	
 - [Overview of the Project](#overview-of-the-Surf-shop-Analysis)	
